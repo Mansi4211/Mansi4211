@@ -18,7 +18,7 @@ I am a passionate **finance enthusiast** with a strong foundation in **equity an
 ## 🛠️ Tools & Skills
 
 - 💹 Financial and Equity Analysis & Reporting  
-- 📊 Content Writing  
+- 📊 Content Writing and Equity Research
 - 📈 Data Visualization & Dashboarding  
 - 📚 Strong analytical thinking & decision-making  
 
