@@ -18,7 +18,7 @@ I am a passionate **finance enthusiast** with a strong foundation in **equity an
 ## 🛠️ Tools & Skills
 
 - 💹 Financial and Equity Analysis & Reporting  
-- 📊 Power BI, Advanced Excel  
+- 📊 Content Writing  
 - 📈 Data Visualization & Dashboarding  
 - 📚 Strong analytical thinking & decision-making  
 
@@ -28,7 +28,7 @@ I am a passionate **finance enthusiast** with a strong foundation in **equity an
 
 Feel free to connect or reach out for collaborations, opportunities, or just a good conversation on finance and tech!
 
-- 🔗 [LinkedIn](#) *www.linkedin.com/in/mansi-banerjee-8102582a5*
+- 🔗 [LinkedIn](#) *(www.linkedin.com/in/mansi-banerjee-8102582a5)*
 - 📧 Email: *(mansibanerjee176@gmail.com)*
 
 ---
