@@ -1,0 +1,36 @@
+# 👋 Welcome to My GitHub Profile!
+
+I am a passionate **finance enthusiast** with a strong foundation in **business administration**. Currently, I'm pursuing a **Postgraduate Diploma in Banking and Financial Services** from **Symbiosis Center for Distance Learning** to further sharpen my expertise in the finance and Equity domain.
+
+With a solid grip on **Financial Analysis**, **Advanced Excel**, and **Power BI**, I thrive on transforming raw data into meaningful insights that drive strategic decision-making.
+
+---
+
+## 🧐 About Me
+
+- 🌱 Constantly exploring different languages and technologies.
+- 🔭 Currently working in Finology as a **Finance Research Associate Intern**.
+- 🎓 Bachelor's degree in **Business Administration (BBA)**.
+- 💼 Actively looking for a **challenging finance research role** to apply my skills and contribute meaningfully to a growing organisation.
+
+---
+
+## 🛠️ Tools & Skills
+
+- 💹 Financial and Equity Analysis & Reporting  
+- 📊 Power BI, Advanced Excel  
+- 📈 Data Visualization & Dashboarding  
+- 📚 Strong analytical thinking & decision-making  
+
+---
+
+## 📫 Let's Connect
+
+Feel free to connect or reach out for collaborations, opportunities, or just a good conversation on finance and tech!
+
+- 🔗 [LinkedIn](#) *www.linkedin.com/in/mansi-banerjee-8102582a5*
+- 📧 Email: *(mansibanerjee176@gmail.com)*
+
+---
+
+Thanks for stopping by! 🚀
