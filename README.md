@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-I am a passionate **finance enthusiast** with a strong foundation in **business administration**. Currently, I'm pursuing a **Postgraduate Diploma in Banking and Financial Services** from **Symbiosis Center for Distance Learning** to further sharpen my expertise in the finance and Equity domain.
+I am a passionate **finance enthusiast** with a strong foundation in **equity and research** and passionate about markets. I simplify complex financial data into easy-to-understand content. Currently, I'm pursuing a **Postgraduate Diploma in Banking and Financial Services** from **Symbiosis Centre for Distance Learning** to further sharpen my expertise in the finance and Equity domain.
 
-With a solid grip on **Financial Analysis**, **Advanced Excel**, and **Power BI**, I thrive on transforming raw data into meaningful insights that drive strategic decision-making.
+With a solid grip on **Equities and Research**, **Advanced Excel**, and **Power BI**, I thrive on transforming raw data into meaningful insights that drive strategic decision-making.
 
 ---
 
